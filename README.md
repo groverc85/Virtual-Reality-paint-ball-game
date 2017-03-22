@@ -10,7 +10,7 @@ Use **Photon** to connect the phone and PC, and use the **gyroscope** to control
 ### Part 2 – AR Paint Ball Game
 Use Unity, the gyroscope input, Photon and **Vuforia**
 
-####Steps: 
+#### Steps: 
 
 * Display an AR marker on the computer display screen (i.e. which will become the “canvas” for the paint splats) so the phone can locate its position and orientation with respect to the display screen;
 
