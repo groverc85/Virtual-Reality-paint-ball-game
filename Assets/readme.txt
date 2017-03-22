@@ -1,9 +1,3 @@
-This is a homework assignment framework for an Augmented Reality paint splatter
-ball game prototype for __CIS568-Game Design Practicum__ at University of Pennsylvania.
-The framework is created by Ruoyu Fan.
- (Ruoyu also drew the sheep! If it is not good as a AR target just switch to another 
- or your own at ImageTarget settings)
-
 Third-party resources besides Photon and Vuforia:
 
 Materials/long-arrow-up.png:
